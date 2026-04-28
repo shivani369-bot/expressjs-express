@@ -3,7 +3,9 @@
 **Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org).**
 
 **This project has a [Code of Conduct].**
+## Authentication 
 
+This project uses **JWT** authentication. Clients should attach a bearer token to every request.
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
