@@ -3,12 +3,17 @@
 **Fast, unopinionated, minimalist web framework for [Node.js](https://nodejs.org).**
 
 **This project has a [Code of Conduct].**
-## Authentication 
 
-This project uses **JWT** authentication. Clients should attach a bearer token to every request.
+## Repository documentation
+
+If you're working on the Express source code (tests, internals, contributing), start here:
+
+- [`docs/index.md`](docs/index.md)
+
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
+- [Repository documentation](#repository-documentation)
 - [Installation](#installation)
 - [Features](#features)
 - [Docs \& Community](#docs--community)
